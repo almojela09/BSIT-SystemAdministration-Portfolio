@@ -1,1 +1,1 @@
-
+# BSIT System Administration Portfolio ## Week 02 – Enterprise Infrastructure Plan ### Project Overview This project contains the complete IT Infrastructure Plan for **ABC Startup Solutions**, a fictional software development startup with **20 employees**. The project demonstrates enterprise infrastructure planning, hardware and software inventory management, network design, security planning, backup strategy development, and professional technical documentation. ---
